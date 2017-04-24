@@ -1,0 +1,8 @@
+* GERMANY   ;City Bike ;PRODUCED       ;     ; ;2010;2015;
+* GERMANY   ;City Bike ;PRODUCED       ;123 ;7;2016;2016;
+* GERMANY   ;City Bike ;PRODUCED       ;456 ;L;2017;2023;
+* GERMANY   ;Ultra Fast Bike   ;PRODUCTION        ;123 ;7;2016;2016;
+* GERMANY   ;Ultra Fast Bike   ;PRODUCTION        ;789 ;7;2017;2018;
+* GERMANY   ;Ultra Fast Bike   ;PRODUCTION        ;456 ;L;2019;2025;
+GERMANY;City Bike;PRODUCED;;;ZBZM;201001;266;
+GERMANY;City Bike;PRODUCED;;;ZBZM;201002;257;
